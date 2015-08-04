@@ -15,3 +15,8 @@ save some useful tools in github
 
 5.功能：网络图片加载 picasso
 链接：https://github.com/square/picasso
+
+
+5.功能：注解绑定 butterknife 
+链接：https://github.com/JakeWharton/butterknife
+快速使用：compile 'com.jakewharton:butterknife:7.0.1'
