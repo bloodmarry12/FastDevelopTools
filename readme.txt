@@ -27,4 +27,7 @@ save some useful tools in github
 
 8.google新出的库，包含fab,CoordinatorLayout 等
   compile 'com.android.support:design:22.2.0'
+  
+9.eventbus compile 'de.greenrobot:eventbus:2.4.0'
+
 
