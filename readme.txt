@@ -20,3 +20,7 @@ save some useful tools in github
 5.功能：注解绑定 butterknife 
 链接：https://github.com/JakeWharton/butterknife
 快速使用：compile 'com.jakewharton:butterknife:7.0.1'
+
+6.recycleview compile 'com.android.support:recyclerview-v7:21.0.+'
+
+7.cardview compile 'com.android.support:cardview-v7:21.0.+'
