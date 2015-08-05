@@ -24,3 +24,7 @@ save some useful tools in github
 6.recycleview compile 'com.android.support:recyclerview-v7:21.0.+'
 
 7.cardview compile 'com.android.support:cardview-v7:21.0.+'
+
+8.google新出的库，包含fab,CoordinatorLayout 等
+  compile 'com.android.support:design:22.2.0'
+
